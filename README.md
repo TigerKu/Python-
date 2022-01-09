@@ -16,7 +16,7 @@
 - 正则表达式
 
 ```python
-def func():
+def func(x, y):
+    x + y
     pass
 ```
-
